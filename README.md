@@ -1,4 +1,4 @@
-# react-native-android-keyboard-adjust
+# react-native-android-keyboard-adjust-view
 
 Change the input mode for the Android keyboard in a React Native app.
 
@@ -17,13 +17,13 @@ If you are having issues with the default keyboard screen adjust modes and need 
 ### Install the package
 
 `npm install --save react-native-android-keyboard-adjust`
-`That's it, you are good to go.`
+That's it, you are good to go.
 
 
 
 ## Example
 ```
-import AndroidKeyboardAdjust from 'react-native-android-keyboard-adjust';
+import AndroidKeyboardAdjust from 'react-native-android-keyboard-adjust-view';
 
 AndroidKeyboardAdjust.setAdjustNothing();
 AndroidKeyboardAdjust.setAdjustPan();
