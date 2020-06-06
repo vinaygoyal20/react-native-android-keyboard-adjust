@@ -15,9 +15,10 @@ If you are having issues with the default keyboard screen adjust modes and need 
 ## Installation instructions for Android
 
 ### Install the package
-
-`npm install --save react-native-android-keyboard-adjust`
+```
+npm install --save react-native-android-keyboard-adjust-view
 That's it, you are good to go.
+```
 
 
 
